@@ -1,4 +1,6 @@
-﻿namespace Notes;
+﻿using Notes.Views;
+
+namespace Notes;
 
 public partial class App : Application
 {
